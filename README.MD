@@ -59,7 +59,7 @@ curl -X 'POST' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
-  "text": "Хороший человек"
+  "text": "хорошая компания"
 }'
 ```
 **Ответ**
